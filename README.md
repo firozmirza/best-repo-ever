@@ -1,3 +1,3 @@
 # bgm-univ-frz
-A training repo for BGMedia
+A training repo
 Line added for testing while working on myfeaturebranch - change from new-branches
